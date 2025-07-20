@@ -10,7 +10,7 @@ A web-based terminal-style developer portfolio where users can interact using co
 
 ## 📸 Preview
 
-![Preview Screenshot](./assets/Screenshot.png)
+![Preview Screenshot](./src/assets/Screenshot.png)
 
 ## 🛠️ Built With
 
