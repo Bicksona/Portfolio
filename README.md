@@ -6,7 +6,7 @@ A web-based terminal-style developer portfolio where users can interact using co
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-live-link.com)
+[View Live Project](https://bickson-portfolio.netlify.app/)
 
 ## 📸 Preview
 
