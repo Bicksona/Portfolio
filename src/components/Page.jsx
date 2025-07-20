@@ -17,8 +17,8 @@ export class Page extends Component {
   information = {
     commands: [
       { id: 10, type: "ls:~(to list the option)" },
-      { id: 11, type: "cat:~(to access the option)" },
-      { id: 12, type: "clear:~(to clear the page eg: cat about.txt)" },
+      { id: 11, type: "cat:~(to access the option'eg: cat about.txt')" },
+      { id: 12, type: "clear:~(to clear the page )" },
       { id: 13, type: "cmd:~(to help)" }
     ],
     subDir: [
