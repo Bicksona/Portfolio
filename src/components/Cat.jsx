@@ -16,8 +16,7 @@ import LinkedIn from "../assets/linkedin.png";
 import Email from "../assets/email.png";
 import Ai from "../assets/AI.png"
 import WEB from "../assets/web.png"
-import NETFLIX from "../assets/netflix.png"
-import AMAZON from "../assets/amazon.png"
+import PET from "../assets/pets.png"
 import "./style.css";
 export class Cat extends Component {
   state = {
@@ -53,19 +52,13 @@ export class Cat extends Component {
         linkToGithub: "https://github.com/Bicksona/College-Webpage",
       },
       {
-        projectName: "Netflix",
-        icon:NETFLIX,
-        liveDemo: "https://demopage-1.netlify.app/",
-        linkToGithub: "https://github.com/Bicksona/netflix-frontend",
+        projectName: "PetVista",
+        icon:PET,
+        liveDemo: "https://petvista.netlify.app/",
+        linkToGithub: "https://github.com/Bicksona/PETVISTA",
       },
       
-      {
-        projectName: "Amazon(Not Responsive)",
-        icon:AMAZON,
-        liveDemo: "https://demopage-2.netlify.app/",
-        linkToGithub: "https://github.com/Bicksona/amazon",
-      },
-      
+     
      
     ],
     skills: [
